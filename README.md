@@ -17,9 +17,7 @@ bundle exec jekyll serve
 ```
 
 ## TODO:
-- Remove Icomoon stuff
-- Add Google Analytics
-- 
+- Remove Icomoon stuff 
 
 
 ## Credits

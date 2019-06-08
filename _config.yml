@@ -26,7 +26,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : RxCMTL
+  fullname                  : RxC MTL
   rss                       : true # generate RSS feed and show it's icon in header
   #mail                      : your@email.com # change to your e-mail address
   twitter                   : RxCMontreal
@@ -35,7 +35,7 @@ author:
   # youtube                   : youtube-user-name
   # stackoverflow             : stackoverflow-user-name
   # disqus                    : dactl # your disqus site name
-  # google_analytics          : # 'UA-XXXXXXXX-X'
+  google_analytics          :  'UA-141748355-1'
   # photo                     : "uploads/me2.png"
   # photo2x                   : "uploads/me.png"
 
