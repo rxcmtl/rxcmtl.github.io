@@ -6,8 +6,9 @@ tags:
   - ChapterBegins
 description: >
   It’s not radical to critique our current society. It’s radical to build a better one.
-hero: "../assets/img/logo.gif"
+hero: "../assets/img/radicalxchange_montreal.png"
 published: true
+overlay: blue
 ---
 
 This chapter is inspired by [Glen Weyl](https://twitter.com/glenweyl) & Eric Posner's book Radical Markets, the Ethereum Movement, and everyone else with a positive desire to improve equality through better economics and political design.
